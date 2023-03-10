@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Zafar Emon
 #### I am Front-End Developer
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1120668899383619585/1655994287/1080x360)
+![I am a Front-End Developer](https://pbs.twimg.com/profile_banners/1120668899383619585/1655994287/1080x360)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am a junior Front-End developer. I am passionate about coding. I enjoy getting lost in the code and finding creative solutions to problems.
 
 Skills: NEXT JS - REACT JS - JAVASCRIPT - BOOTSTRAP - TAILWIND - HTML - CSS
 
-- 🔭 I’m currently working on Lets Make as a front end developer 
-- 🌱 I’m currently learning Next Js 
-- 💬 Ask me about React Js and Javascript 
+- 🔭 I’m currently working on Lets Make as a front end developer intern. 
+- 🌱 I’m currently learning Next Js.
+- 💬 Ask me about React Js and Javascript.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zafaremon20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zafaremon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abuzafaremon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abuzafaremon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/abuzafaremon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/zafaremon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://zafaremon.netlify.app)  
