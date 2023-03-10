@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Zafar Emon
+#### I am Front-End Developer
 ![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1120668899383619585/1655994287/1080x360)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
