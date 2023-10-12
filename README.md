@@ -9,8 +9,8 @@
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📫 E-mail : **abuzaforemon@gmail.com**
-- 📝 Portfolio :[zafaremon.netlify.app](https://zafaremon.netlify.app)
-- 📄 Resume : [Download Resume](https://drive.google.com/file/d/1mk2OdIN_Ye4VQEDXSJi82ZwWr7LXJ6g4/view)
+- 📝 Portfolio :[zafaremon.netlify.app](https://portfolio-abuzafaremon.vercel.app/)
+- 📄 Resume : [Download Resume](https://drive.google.com/file/d/1fA4ADDPKA7O2AGtAaaPnRQbsZAZWYrht/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/zafaremon/" target="blank"><img align="center" src="./Social/linkedin.png" alt="https://www.linkedin.com/in/zafaremon/" height="40" width="40" /></a>
-<a href="https://www.facebook.com/abuzafaremon" target="blank"><img align="center" src="./Social/Facebook.png" alt="https://www.facebook.com/abuzafaremon" height="40" width="40" /></a>
+<a href="https://www.facebook.com/zafar.emon" target="blank"><img align="center" src="./Social/Facebook.png" alt="https://www.facebook.com/abuzafaremon" height="40" width="40" /></a>
 <a href="https://zafaremon.netlify.app" target="blank"><img align="center" src="./Social/website.png" alt="https://zafaremon.netlify.app" height="40" width="40" /></a>
 
 </p
