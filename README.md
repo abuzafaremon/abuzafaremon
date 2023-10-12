@@ -9,7 +9,7 @@
 <!-- - 💬 Ask me about **React, Node and JavaScript.** -->
 
 - 📫 E-mail : **abuzaforemon@gmail.com**
-- 📝 Portfolio :[zafaremon.netlify.app](https://portfolio-abuzafaremon.vercel.app/)
+- 📝 Portfolio :[portfolio-abuzafaremon.vercel.app](https://portfolio-abuzafaremon.vercel.app/)
 - 📄 Resume : [Download Resume](https://drive.google.com/file/d/1fA4ADDPKA7O2AGtAaaPnRQbsZAZWYrht/view?usp=sharing)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
