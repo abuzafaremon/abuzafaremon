@@ -94,7 +94,7 @@ src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 alt='zafar emon'
 />
 </a>
-<a href="https://zafaremon.netlify.app" target="_blank">
+<a href="https://portfolio-abuzafaremon.vercel.app" target="_blank">
 <img
 src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white'
 alt='zafar emon'
@@ -114,7 +114,7 @@ alt='zafar emon'
 />
 </a>
 
-<a href="https://github.com/zafaremon20" target="_blank">
+<a href="https://github.com/abuzafaremon" target="_blank">
 <img
 src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'
 alt='zafar emon'
